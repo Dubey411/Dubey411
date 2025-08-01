@@ -159,7 +159,7 @@ console.log(developer.getCurrentStatus());
 **🔥 Building:**
 - 📝 AI-Powered Notes Manager
 - 🌐 Next-Gen Portfolio
-- 🛒 E-commerce Platform
+- 🧠 NeuroNexus
 - 📊 Real-time Analytics
 
 **⚡ Learning:**
