@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <h1 align="center">
@@ -46,7 +46,7 @@ class ShubhamDubey {
 
   getDailyRoutine() {
     return [
-      "☕ Coffee++",
+      "☕ Coffee++ with Chai/Tea",
       "💻 Code with passion", 
       "🐛 Debug with precision",
       "📚 Learn something new",
@@ -76,17 +76,17 @@ console.log(developer.getCurrentStatus());
 
 ### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> **BACKEND POWERHOUSE**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,flask,fastapi&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java&theme=dark" />
 </p>
 
 ### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="30"> **DATABASE DOMINION**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&theme=dark" />
 </p>
 
 ### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"> **DEVOPS & TOOLS**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,figma,vscode,postman&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma,vscode,postman&theme=dark" />
 </p>
 
 </div>
@@ -95,7 +95,7 @@ console.log(developer.getCurrentStatus());
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
@@ -109,17 +109,17 @@ console.log(developer.getCurrentStatus());
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **PERFORMANCE DASHBOARD**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dubey411&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Power%20Stats&ring_color=ff6b6b&fire_color=feca57&sideNums_color=ff9ff3&currStreakLabel_color=ff6b6b&bg_color=0d1117&title_color=ff6b6b&icon_color=feca57&text_color=fff&border_color=444" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dubey411&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Power%20Stats&bg_color=0d1117&title_color=ff6b6b&icon_color=feca57&text_color=fff" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dubey411&theme=radical&hide_border=true&stroke=feca57&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b&sideNums=fff&currStreakNum=fff&dates=fff&sideLabels=fff&background=0d1117" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dubey411&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=🔥%20Language%20Mastery&bg_color=0d1117&title_color=ff6b6b&text_color=fff&icon_color=feca57" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dubey411&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=🔥%20Language%20Mastery&bg_color=0d1117&title_color=ff6b6b&text_color=fff&icon_color=feca57" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dubey411&theme=radical&utcOffset=5.5" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubey411&custom_title=🚀%20Contribution%20Heatmap&bg_color=0d1117&color=ff6b6b&line=feca57&point=fff&area_color=feca57&title_color=ff6b6b&area=true&hide_border=true&radius=10" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubey411&custom_title=🚀%20Contribution%20Heatmap&bg_color=0d1117&color=ff6b6b&line=feca57&point=fff&area_color=30363d&title_color=ff6b6b&area=true&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
@@ -145,10 +145,10 @@ console.log(developer.getCurrentStatus());
         <h3 align="center">🎯 Featured Repositories</h3>
         <div align="center">
           <a href="https://github.com/Dubey411/notes-manager-ui">
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dubey411&repo=notes-manager-ui&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=feca57&text_color=fff&description_lines_count=3" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey411&repo=notes-manager-ui&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=feca57&text_color=fff" />
           </a>
           <a href="https://github.com/Dubey411/modern-profile-page">
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dubey411&repo=modern-profile-page&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=feca57&text_color=fff&description_lines_count=3" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey411&repo=modern-profile-page&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=feca57&text_color=fff" />
           </a>
         </div>
       </td>
@@ -229,8 +229,9 @@ console.log(developer.getCurrentStatus());
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Dubey411&bg_color=0d1117&color=ff6b6b&line=feca57&point=fff&area=true&hide_border=true&custom_title=Recent%20Activity%20Pulse" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubey411&bg_color=0d1117&color=ff6b6b&line=feca57&point=fff&area=true&hide_border=true&custom_title=📊%20Recent%20GitHub%20Activity" />
 </div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75" />
