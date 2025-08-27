@@ -14,50 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=800&height=200&lines=⚡+Currently+building+next-gen+web+experiences;🔥+Transforming+ideas+into+scalable+solutions;🚀+Mastering+cutting-edge+technologies+daily;💡+Open+to+revolutionary+collaborations;🌟+Pushing+the+boundaries+of+what's+possible" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> **THE ARCHITECT BEHIND THE CODE**
-
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
-
-```typescript
-class ShubhamDubey {
-  constructor() {
-    this.name = "Shubham Dubey";
-    this.role = "Full Stack Sorcerer";
-    this.location = "Digital Realm 🌐";
-    this.languages = ["JavaScript", "TypeScript", "Python", "Java"];
-    this.currentFocus = "Revolutionary MERN Applications";
-    this.philosophy = "Code is poetry, bugs are plot twists";
-  }
-
-  getCurrentStatus() {
-    return {
-      building: "🔥 MERN Notes Manager with AI",
-      learning: "⚡ Next.js 14 + Docker + AI Integration",
-      collaborating: "🤝 Open Source & Hackathon Projects",
-      askMeAbout: "💬 MERN, JavaScript Wizardry, System Design",
-      funFact: "🎭 My commits tell better stories than Netflix",
-      motto: "🚀 Breaking production... I mean records!"
-    };
-  }
-
-  getDailyRoutine() {
-    return [
-      "☕ Coffee++ with Chai/Tea",
-      "💻 Code with passion", 
-      "🐛 Debug with precision",
-      "📚 Learn something new",
-      "🔄 Repeat until perfect"
-    ];
-  }
-}
-
-const developer = new ShubhamDubey();
-console.log(developer.getCurrentStatus());
-```
 
 <br clear="both" />
 
@@ -71,7 +28,7 @@ console.log(developer.getCurrentStatus());
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **FRONTEND ARSENAL**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,sass&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark&perline=8" />
 </p>
 
 ### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> **BACKEND POWERHOUSE**
@@ -81,12 +38,12 @@ console.log(developer.getCurrentStatus());
 
 ### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="30"> **DATABASE DOMINION**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </p>
 
 ### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"> **DEVOPS & TOOLS**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma,vscode&theme=dark" />
 </p>
 
 </div>
@@ -94,7 +51,6 @@ console.log(developer.getCurrentStatus());
 <div align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
@@ -122,15 +78,7 @@ console.log(developer.getCurrentStatus());
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubey411&custom_title=🚀%20Contribution%20Heatmap&bg_color=0d1117&color=ff6b6b&line=feca57&point=fff&area_color=30363d&title_color=ff6b6b&area=true&hide_border=true" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **ACHIEVEMENT SHOWCASE**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dubey411&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -144,11 +92,11 @@ console.log(developer.getCurrentStatus());
       <td width="50%">
         <h3 align="center">🎯 Featured Repositories</h3>
         <div align="center">
-          <a href="https://github.com/Dubey411/notes-manager-ui">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey411&repo=notes-manager-ui&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=feca57&text_color=fff" />
+          <a href="https://github.com/Dubey411/NoteFrontend">
+            <img src="https://note-frontend-psi.vercel.app/" />
           </a>
-          <a href="https://github.com/Dubey411/modern-profile-page">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey411&repo=modern-profile-page&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=feca57&text_color=fff" />
+          <a href="https://github.com/Dubey411/PopX">
+            <img src="https://pop-x-lovat-eta.vercel.app/" />
           </a>
         </div>
       </td>
@@ -202,19 +150,6 @@ console.log(developer.getCurrentStatus());
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50"> **DAILY INSPIRATION**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" />
-</div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0d1117" alt="Jokes Card" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -241,6 +176,4 @@ console.log(developer.getCurrentStatus());
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻" />
 </h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
+
