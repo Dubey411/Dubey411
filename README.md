@@ -111,7 +111,7 @@
 **🔥 Building:**
 - 📝 AI-Powered Notes Manager
 - 🌐 Next-Gen Portfolio
-- 🧠 NeuroNexus
+- 🧠 Tatv(तत्त्व)
 - 📊 Real-time Analytics
 
 **⚡ Learning:**
