@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=SHUBHAM%20DUBEY&fontSize=70&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontAlignY=55&descAlign=50&descAlignY=75&desc=◦%20CRAFTING%20DIGITAL%20EXPERIENCES%20◦" />
 </div>
@@ -80,7 +79,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubey411&custom_title=🚀%20Contribution%20Heatmap&bg_color=0d1117&color=ff6b6b&line=feca57&point=fff&area_color=30363d&title_color=ff6b6b&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubey411&custom_title=🚀%20Contribution%20Activity&bg_color=0d1117&color=ff6b6b&line=feca57&point=fff&area_color=30363d&title_color=ff6b6b&area=true&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
@@ -121,7 +120,7 @@
 - AI/ML Integration
 - Web3 Technologies
 
-**🎯 Goals 2024:**
+**🎯 Goals 2025:**
 - 🌟 100+ Contributions
 - 🚀 10+ Major Projects
 - 📚 5+ Tech Certifications
@@ -167,13 +166,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubey411&bg_color=0d1117&color=ff6b6b&line=feca57&point=fff&area=true&hide_border=true&custom_title=📊%20Recent%20GitHub%20Activity" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&lines=Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻" />
 </h1>
