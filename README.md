@@ -1,174 +1,235 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=SHUBHAM%20DUBEY&fontSize=70&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontAlignY=55&descAlign=50&descAlignY=75&desc=◦%20CRAFTING%20DIGITAL%20EXPERIENCES%20◦" />
+
+```ascii
+███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗    ██████╗ ██╗   ██╗██████╗ ███████╗██╗   ██╗
+██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║    ██╔══██╗██║   ██║██╔══██╗██╔════╝╚██╗ ██╔╝
+███████╗███████║██║   ██║██████╔╝███████║███████║██╔████╔██║    ██║  ██║██║   ██║██████╔╝█████╗   ╚████╔╝ 
+╚════██║██╔══██║██║   ██║██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║    ██║  ██║██║   ██║██╔══██╗██╔══╝    ╚██╔╝  
+███████║██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║    ██████╔╝╚██████╔╝██████╔╝███████╗   ██║   
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=⚡+FULL+STACK+ARCHITECT+⚡;🌐+BUILDING+THE+DIGITAL+FUTURE+🌐;🚀+INNOVATION+×+CODE+×+IMPACT+🚀" />
+
 </div>
+
+
+```diff
+@@  SYSTEM STATUS: OPERATIONAL  @@
++   ├─ Neural Networks: ACTIVE
++   ├─ Code Synthesis: OPTIMIZED  
++   ├─ Innovation Index: 99.9%
++   └─ Mission: TRANSFORMING IDEAS → REALITY
+```
 
 <div align="center">
   <img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Shubham+Dubey!;Full+Stack+Developer!;MERN+Stack+Expert!;Open+Source+Lover!" />
-</h1>
+---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=800&height=200&lines=⚡+Currently+building+next-gen+web+experiences;🔥+Transforming+ideas+into+scalable+solutions;🚀+Mastering+cutting-edge+technologies+daily;💡+Open+to+revolutionary+collaborations;🌟+Pushing+the+boundaries+of+what's+possible" />
-</div>
-
-<br clear="both" />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> **TECH MASTERY MATRIX**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> **NEURAL INTERFACE**
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **FRONTEND ARSENAL**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark&perline=8" />
-</p>
+```javascript
+const developer = {
+  name: "Shubham Dubey",
+  title: "Full Stack Architect",
+  location: "Mumbai, India 🇮🇳",
+  mode: "ALWAYS_LEARNING",
+  languages: ["JavaScript", "Python", "Java", "SQL"],
+  focus: ["Web3", "AI/ML", "Cloud Architecture", "Microservices"],
+  mission: "Building scalable solutions that shape tomorrow"
+};
 
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> **BACKEND POWERHOUSE**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java&theme=dark" />
-</p>
-
-### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="30"> **DATABASE DOMINION**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</p>
-
-### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"> **DEVOPS & TOOLS**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma,vscode&theme=dark" />
-</p>
+while(alive) {
+  eat();
+  code();
+  innovate();
+  sleep();
+}
+```
 
 </div>
 
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> **TECH MATRIX**
+
+<details open>
+<summary><b>🎯 FRONTEND QUANTUM LAYER</b></summary>
+
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+
+| Technology | Status | Proficiency |
+|------------|--------|-------------|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | `ACTIVE` | ████████████ 95% |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | `ACTIVE` | ████████████ 92% |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | `ACTIVE` | ████████████ 98% |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | `ACTIVE` | ████████████ 90% |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | `ACTIVE` | ████████████ 88% |
+
+</div>
+</details>
+
+<details open>
+<summary><b>⚙️ BACKEND NEURAL CORE</b></summary>
+
+<div align="center">
+
+| Technology | Status | Proficiency |
+|------------|--------|-------------|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | `ACTIVE` | ████████████ 90% |
+| ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | `ACTIVE` | ████████████ 88% |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | `ACTIVE` | ████████████ 85% |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | `ACTIVE` | ████████████ 80% |
+
+</div>
+</details>
+
+<details open>
+<summary><b>💾 DATABASE NEXUS</b></summary>
+
+<div align="center">
+
+| Technology | Status | Proficiency |
+|------------|--------|-------------|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | `ACTIVE` | ████████████ 87% |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | `ACTIVE` | ████████████ 82% |
+
+</div>
+</details>
+
+<details open>
+<summary><b>🛠️ DEVOPS INFRASTRUCTURE</b></summary>
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+</details>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" /> **PERFORMANCE METRICS**
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dubey411&theme=neon-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=00F7F7)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dubey411&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF6B6B&text_color=FFFFFF&ring_color=00F7F7" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dubey411&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
 </div>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **PERFORMANCE DASHBOARD**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubey411&custom_title=⚡%20Neural%20Activity%20Pattern&bg_color=0d1117&color=00f7f7&line=ff6b6b&point=ffffff&area_color=1a1b27&title_color=00f7f7&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="30" /> **PROJECT CONSTELLATION**
 
 <div align="center">
+
+### 🌟 **FLAGSHIP INNOVATIONS**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🔐 [TrustScan](https://github.com/Dubey411/TrustScan)
+```yaml
+Type: Security Platform
+Stack: React + Node.js + AI
+Status: 🟢 Production Ready
+Impact: Trust verification at scale
+```
+Advanced trust verification system utilizing AI-powered analysis for comprehensive digital security assessment.
+
+**Key Features:**
+- AI-driven threat detection
+- Real-time security scoring
+- Blockchain-verified credentials
+- Multi-layer encryption
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dubey411/TrustScan)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🍕 [FoodConnect](https://github.com/Dubey411/FoodConnect)
+```yaml
+Type: Social Impact Platform
+Stack: MERN + Real-time DB
+Status: 🟢 Live & Scaling
+Impact: Zero food waste initiative
+```
+Revolutionary platform connecting surplus food providers with communities in need, powered by intelligent logistics.
+
+**Key Features:**
+- Real-time matching algorithm
+- Geolocation-based routing
+- Impact analytics dashboard
+- NGO partnership network
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dubey411/FoodConnect)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 [EduEnergy](https://github.com/Dubey411/EduEnergy)
+```yaml
+Type: Energy Prediction Platform
+Stack: React + Express + MongoDB
+Status:  Live 
+Impact: Personalized learning paths
+```
+Next-generation educational platform with AI-powered adaptive learning and gamified progress tracking.
+
+**Key Features:**
+- Predicting Solar Energy  
+- Use Of Ml and Datasets
+- Green Energy 🌳
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dubey411/EduEnergy)
+
+</td>
+<td width="50%" valign="top">
   
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dubey411&theme=radical)
+#### 📝 [Note Application](https://github.com/Dubey411/NoteFrontend)
+```yaml
+Type: Note Application
+Stack: React + Express & Node + Mongo Atlas
+Status: Live
+Impact: The user can create notes in this application 
+```
 
-</div>
+Revolutionary platform connecting surplus food providers with communities in need, powered by intelligent logistics.
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dubey411&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dubey411&theme=radical" />
-</div>
+**Key Features:**
+- Real-time Not Creation 
+- Add the thought
+- Create your Lovely messages
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dubey411&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dubey411&theme=radical&utcOffset=5.5" />
-</div>
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dubey411/NoteFrontend)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubey411&custom_title=🚀%20Contribution%20Activity&bg_color=0d1117&color=ff6b6b&line=feca57&point=fff&area_color=30363d&title_color=ff6b6b&area=true&hide_border=true" width="100%" />
-</div>
+</td>
+</tr>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"> **PROJECT SPOTLIGHT**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎯 Featured Repositories</h3>
-        <div align="center">
-          <a href="https://github.com/Dubey411/NoteFrontend" target="_blank">
-            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Dubey411&repo=NoteFrontend&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=feca57&text_color=fff" alt="NoteFrontend" />
-          </a>
-          <br /><br />
-          <a href="https://github.com/Dubey411/PopX" target="_blank">
-            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Dubey411&repo=PopX&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=feca57&text_color=fff" alt="PopX" />
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🚀 Current Focus</h3>
-        <div align="center">
-          
-**🔥 Building:**
-- 📝 AI-Powered Notes Manager
-- 🌐 Next-Gen Portfolio
-- 🧠 Tatv(तत्त्व)
-- 📊 Real-time Analytics
-
-**⚡ Learning:**
-- Next.js 14 App Router
-- Docker & Kubernetes
-- Microservices Architecture
-- AI/ML Integration
-- Web3 Technologies
-
-**🎯 Goals 2025:**
-- 🌟 100+ Contributions
-- 🚀 10+ Major Projects
-- 📚 5+ Tech Certifications
-- 🤝 50+ Collaborations
-
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **CONNECT & COLLABORATE**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/shubham-dubey-1a0293352">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=000000" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/dubey_shub69">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2&labelColor=000000" alt="Twitter" />
-  </a>
-  <a href="https://portfolio-alpha-six-19.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&color=FF5722&labelColor=000000" alt="Portfolio" />
-  </a>
-  <a href="mailto:shubh6949@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&labelColor=000000" alt="Email" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> **VISITOR ANALYTICS**
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dubey411&style=for-the-badge&color=red&labelColor=black" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Dubey411?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Dubey411?label=Stars&style=for-the-badge&color=yellow&labelColor=black" alt="Stars" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75" />
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&lines=Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻" />
-</h1>
+**Key Features:**
