@@ -28,33 +28,6 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> **NEURAL INTERFACE**
-
-<div align="center">
-
-```javascript
-const developer = {
-  name: "Shubham Dubey",
-  title: "Full Stack Architect",
-  location: "Mumbai, India 🇮🇳",
-  mode: "ALWAYS_LEARNING",
-  languages: ["JavaScript", "Python", "Java", "SQL"],
-  focus: ["Web3", "AI/ML", "Cloud Architecture", "Microservices"],
-  mission: "Building scalable solutions that shape tomorrow"
-};
-
-while(alive) {
-  eat();
-  code();
-  innovate();
-  sleep();
-}
-```
-
-</div>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> **TECH MATRIX**
 
 <details open>
