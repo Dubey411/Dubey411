@@ -1,15 +1,12 @@
 <div align="center">
 
-```ascii
-███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗    ██████╗ ██╗   ██╗██████╗ ███████╗██╗   ██╗
-██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║    ██╔══██╗██║   ██║██╔══██╗██╔════╝╚██╗ ██╔╝
-███████╗███████║██║   ██║██████╔╝███████║███████║██╔████╔██║    ██║  ██║██║   ██║██████╔╝█████╗   ╚████╔╝ 
-╚════██║██╔══██║██║   ██║██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║    ██║  ██║██║   ██║██╔══██╗██╔══╝    ╚██╔╝  
-███████║██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║    ██████╔╝╚██████╔╝██████╔╝███████╗   ██║   
-╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a2a1a,60:0d3321,100:00ff88&height=200&section=header&text=Shubham_Dubey&fontSize=80&fontColor=00ff88&fontAlignY=55&animation=twinkling&stroke=00ff88&strokeWidth=2" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=⚡+FULL+STACK+ARCHITECT+⚡;🌐+BUILDING+THE+DIGITAL+FUTURE+🌐;🚀+INNOVATION+×+CODE+×+IMPACT+🚀" />
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Architect+%7C+MERN+%7C+AI%2FML;Building+systems+that+scale+%26+matter;Open+to+collaborate+%E2%86%92+Let%27s+build+something)](https://git.io/typing-svg)
+
+<br/>
 
 </div>
 
