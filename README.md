@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a2a1a,60:0d3321,100:00ff88&height=200&section=header&text=Shubham_Dubey&fontSize=80&fontColor=00ff88&fontAlignY=55&animation=twinkling&stroke=00ff88&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a2a1a,60:0d3321,100:00ff88&height=200&section=header&text=Shubham_Dubey&fontSize=80&fontColor=00ff88&fontAlignY=55&animation=fadeIn&stroke=00ff88&strokeWidth=2" />
 
 <br/>
 
@@ -8,8 +8,18 @@
 
 <br/>
 
-</div>
+<!-- ===== STATS BAR ===== -->
+<img src="https://komarev.com/ghpvc/?username=Dubey411&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/Dubey411?label=FOLLOWERS&style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/stars/Dubey411?label=TOTAL+STARS&style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github" />
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dubey411&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F7F7&icon_color=FF6B6B&text_color=FFFFFF&ring_color=00F7F7" alt="Total commits, stars, PRs and issues" />
+
+<br/>
+
+</div>
 
 ```diff
 @@  SYSTEM STATUS: OPERATIONAL  @@
@@ -104,6 +114,14 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubey411&custom_title=⚡%20Neural%20Activity%20Pattern&bg_color=0d1117&color=00f7f7&line=ff6b6b&point=ffffff&area_color=1a1b27&title_color=00f7f7&area=true&hide_border=true" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dubey411&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dubey411&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 </div>
 
 ---
@@ -201,5 +219,16 @@ Revolutionary platform connecting surplus food providers with communities in nee
 
 </td>
 </tr>
+</table>
 
-**Key Features:**
+---
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> **LET'S CONNECT**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dubey411)
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a2a1a,60:0d3321,100:00ff88&height=100&section=footer" />
+
+</div>
