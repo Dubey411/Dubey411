@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dubey411&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F7F7&icon_color=FF6B6B&text_color=FFFFFF&ring_color=00F7F7" alt="Total commits, stars, PRs and issues" />
+<!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=Dubey411&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F7F7&icon_color=FF6B6B&text_color=FFFFFF&ring_color=00F7F7" alt="Total commits, stars, PRs and issues" /> -->
 
 <br/>
 
@@ -103,13 +103,13 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dubey411&theme=neon-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=00F7F7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Dubey411&theme=radical)](https://github-readme-stats-fast.vercel.app)
 
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dubey411&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF6B6B&text_color=FFFFFF&ring_color=00F7F7" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dubey411&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Dubey411&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF6B6B&text_color=FFFFFF&ring_color=00F7F7" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dubey411&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
 </div>
 
 <div align="center">
