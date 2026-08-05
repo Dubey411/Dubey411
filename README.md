@@ -81,21 +81,11 @@
 </div>
 </details>
 
-<details open>
-<summary><b>🛠️ DEVOPS INFRASTRUCTURE</b></summary>
-
 <div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  <p><b>🛠️ DevOps & Infrastructure</b></p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma,vscode&perline=7" /></a>
 </div>
-</details>
+
 
 ---
 
@@ -103,13 +93,14 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Dubey411&theme=radical)](https://github-readme-stats-fast.vercel.app)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Dubey411&theme=radical&count_private=true)](https://github-readme-stats-fast.vercel.app)
 
 </div>
 
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Dubey411&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF6B6B&text_color=FFFFFF&ring_color=00F7F7" />
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dubey411&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Dubey411&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF6B6B&text_color=FFFFFF&ring_color=00F7F7&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dubey411&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&count_private=true" />
 </div>
 
 <div align="center">
@@ -123,6 +114,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dubey411&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 </div>
+
 
 ---
 
